@@ -1,0 +1,8 @@
+{
+    "TUMOR_FASTQ_2": "TODO", 
+    "TUMOR_FASTQ_1": "TODO", 
+    "REFERENCE_GENOME": "syn5923671", 
+    "genome_db": "syn9885642", 
+    "transcriptome_db": "syn9885584", 
+    "REFERENCE_GTF": "syn5923670"
+}
